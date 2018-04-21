@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 jhghhg
 gfdgfsdg
 sdfsajfdjak
 
+=======
+
+hsdfsakjhfdjksah
+>>>>>>> mine
